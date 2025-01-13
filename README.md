@@ -1,4 +1,4 @@
-# SMS Spam Detection System using NLP
+# 📱 SMS Spam Detection System using NLP
 
 ![SMS Spam Detection](https://img.shields.io/badge/SMS-Spam%20Detection-blue?logo=python&logoColor=white)
 
