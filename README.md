@@ -1,6 +1,6 @@
 # 📱 SMS Spam Detection System using NLP
 
-![SMS Spam Detection](https://img.shields.io/badge/SMS-Spam%20Detection-blue?logo=python&logoColor=white)
+[![SMS Spam Detection](https://img.shields.io/badge/SMS-Spam%20Detection-blue?logo=python&logoColor=white)](https://sms-spam-detection-system-using-nlp-gtuczas9epkwavddqnjx8s.streamlit.app/)
 
 A machine learning-based SMS spam detection system using Natural Language Processing (NLP). This project leverages a Naive Bayes classifier and TF-IDF vectorization to classify SMS messages as either spam or ham (non-spam). The system is powered by Streamlit, providing an interactive user interface to test the model with new SMS inputs.
 
