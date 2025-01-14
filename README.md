@@ -18,11 +18,11 @@ A machine learning-based SMS spam detection system using Natural Language Proces
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/sms-spam-detection-nlp.git
+   git clone https://github.com/yourusername/SMS-Spam-Detection-System-using-NLP.git
 
 2. Navigate to the project directory:
    ```bash
-   cd sms-spam-detection-nlp
+   cd SMS-Spam-Detection-System-using-NLP
 
 3. Set up a virtual environment (optional but recommended):
    ```bash
